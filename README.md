@@ -24,7 +24,8 @@ The Pizza Sales Analysis project is designed to analyse transactional sales data
 
 # Conclusion & Recommendations
 The analysis provides a comprehensive view of pizza sales performance. Management can leverage these insights to:
-Focus marketing on high-performing categories.
-Optimize the menu by reconsidering least-selling pizzas.
-Plan inventory and staffing based on sales peaks.
-Monitor KPIs regularly through dashboards for continuous improvement.
+
+1) Focus marketing on high-performing categories.
+2) Optimize the menu by reconsidering least-selling pizzas.
+3) Plan inventory and staffing based on sales peaks.
+4) Monitor KPIs regularly through dashboards for continuous improvement.
